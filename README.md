@@ -1,8 +1,8 @@
 # Racks4Live
 
-Personal racks archive for Ableton Live
+Personal presets archive for Ableton Live, mainly suit for ambient music.
 
-System Requirements: Ableton Live 11.3+
+System Requirements: Ableton Live 11.3+. Some presets may require additional plugins, I'll leave the links to them.
 
 ## Audio Effect Racks
 
@@ -12,7 +12,7 @@ System Requirements: Ableton Live 11.3+
 
 A reverb + delay effect with pitch drifting modulations. Wide range of adjustment, capable of sounding like a supernatural reverb or a vintage delay.
 
-```Orbit Dub.adg``` is built with native devices of Live, while ```Orbit Dub - Dirty``` requiring [TAL-Dub-2](https://tal-software.com/products/tal-dub) and [Eventide Blackhole](https://www.eventideaudio.com/plug-ins/blackhole/) installed on your computer. The dirty version colors a more vintage tone.
+```Orbit Dub.adg``` is built with core library devices of Live, while ```Orbit Dub - Dirty``` requiring [TAL-Dub-2](https://tal-software.com/products/tal-dub) and [Eventide Blackhole](https://www.eventideaudio.com/plug-ins/blackhole/) installed on your computer. The dirty version colors a more organic tone.
 
 #### Dark Tails & Phaser Tails
 
