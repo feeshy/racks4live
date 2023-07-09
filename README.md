@@ -2,7 +2,9 @@
 
 Personal presets archive for Ableton Live, mainly suit for ambient music.
 
-System Requirements: Ableton Live 11.3+. Some presets may require additional plugins, I'll leave the links to them.
+System Requirements: Ableton Live 11.3+. Some presets may require additional plugins, I'll leave links.
+
+To install a preset, simply drag the ```*'adg``` file into the window of your Ableton Live.
 
 ## Audio Effect Racks
 
