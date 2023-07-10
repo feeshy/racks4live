@@ -30,6 +30,10 @@ A reverb effect combined with the *Echo Fuzz* rack in the core library of Live.
 
 A delay + reverb effect with a sidechain ducker and a resonant filter, adding THE MOVEMENT to your song. Sounds better at higher feedback value and with filter automations.
 
+#### Filtered Reverb
+
+A reverb effect combined with filters.
+
 #### Vintage Delay
 
 A simple delay with chorus and saturation, inspired by the classic DMM.
