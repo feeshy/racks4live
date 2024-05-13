@@ -1,6 +1,6 @@
 System Requirements: Ableton Live 12+. Some presets may require additional plugins, I'll leave links.
 
-download: [click here](https://github.com/feeshy/tasker-shares/zipball/master)
+download: [click here](https://github.com/feeshy/racks4live/zipball/master)
 
 To install a preset, simply drag the ```*.adg``` file into the window of your Ableton Live.
 
